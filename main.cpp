@@ -14,6 +14,7 @@ int main()
     socioB = 0.25 * valor;
     socioC = 0.35 * valor;
 
+    // Mostrar resultados en consola
     cout << "\n***** DISTRIBUCION DE UTILIDADES *****";
     cout << "\nSocio A: USD " << socioA;
     cout << "\nSocio B: USD " << socioB;
